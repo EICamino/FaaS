@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import time
 import functions
 
@@ -6,7 +8,7 @@ import functions
 # tests to run
 tests = {
     # testName: (testFunction, arguments)
-    "Fibonacci": (functions.fib, 25)
+    "Fibonacci": (functions.fib, 30)
 }
 
 # number of times to run

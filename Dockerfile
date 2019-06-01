@@ -4,4 +4,4 @@ COPY . /test
 
 WORKDIR /test
 
-CMD ["./fib.py", "10"]
+CMD ["./run.py"]
